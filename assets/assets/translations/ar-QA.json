@@ -136,5 +136,6 @@
   "NoConnection": "لا يوجد اتصال",
   "Retry": "إعادة المحاولة",
   "wallet balance:": "رصيد المحفظة:",
-  "NoTransaction": "لا توجد معاملات"
+  "NoTransaction": "لا توجد معاملات",
+  "NoImageError": "الرجاء اختيار الصورة"
 }

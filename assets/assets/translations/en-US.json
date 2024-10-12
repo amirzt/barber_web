@@ -136,6 +136,7 @@
   "NoConnection": "NoConnection",
   "Retry": "Retry",
   "wallet balance:": "wallet balance:",
-  "NoTransaction": "No transactions"
+  "NoTransaction": "No transactions",
+  "NoImageError": "Please select image"
 
 }
