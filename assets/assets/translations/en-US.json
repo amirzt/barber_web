@@ -137,6 +137,12 @@
   "Retry": "Retry",
   "wallet balance:": "wallet balance:",
   "NoTransaction": "No transactions",
-  "NoImageError": "Please select image"
+  "NoImageError": "Please select image",
 
+  "Finish Order": "Finish Order",
+  "delivery fee": "delivery fee",
+  "Freelance": "Freelance",
+  "Please enter delivery fee": "Please enter delivery fee",
+  "Delivery Fee": "Delivery Fee",
+  "Salon or Business Name": "Salon or Business Name"
 }
