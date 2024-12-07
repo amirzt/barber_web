@@ -1,11 +1,11 @@
 {
-    "name": "Vendor",
-    "short_name": "Vendor",
+    "name": "HiBeauty",
+    "short_name": "HiBeauty",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Your beauty, Your way",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
