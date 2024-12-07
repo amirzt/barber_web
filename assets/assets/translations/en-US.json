@@ -139,7 +139,16 @@
   "NoTransaction": "No transactions",
   "NoImageError": "Please select image",
 
-  "NoLogin": "You need to login to access this page"
+  "Finish Order": "Finish Order",
+  "delivery fee": "delivery fee",
+  "Freelance": "Freelance",
+  "Please enter delivery fee": "Please enter delivery fee",
+  "Delivery Fee": "Delivery Fee",
+  "Salon or Business Name": "Salon or Business Name",
 
+  "Open Hours": "Open Hours",
+  "from": "from",
+  "to": "to",
+  "NoTime": "You have added no available time"
 
 }
